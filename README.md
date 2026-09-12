@@ -4,7 +4,15 @@ Research workspace for a high-quality mobile app addressing a recurring problem 
 
 Owner: Kirk. Research date: September 9, 2026. Status: research complete; concept selection and user validation pending. No app implementation is included.
 
-## Start here
+## Latest research: compound workflows (September 12, 2026)
+
+Start with the [decision memo](research/compound-workflows/Decision-Memo.md) and [complete artifact index](research/compound-workflows/README.md). This pass explores seven connected customer workflows, investigates three independently, and compares two commercially. It includes a source ledger, an editable financial workbook, and ready-to-execute validation materials.
+
+**No product has been selected and no MVP specification has been written.** Work-return readiness advances to conditional validation; active-trip readiness needs revision and channel evidence. Paid demand for the connection and a cash-positive path by December 31 remain unproven. Fieldwork has not been conducted.
+
+The earlier reports below remain historical research, rather than the current product recommendation.
+
+## Earlier research
 
 [Research synthesis and next bets](research/Research-Synthesis-and-Next-Bets.md) reconciles the four parallel GPT-6 Astra High reports and proposes a bounded validation sprint.
 

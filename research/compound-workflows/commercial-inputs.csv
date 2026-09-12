@@ -1,0 +1,46 @@
+input,label,work_return,active_trip,basis,workbook_row
+priceNative,Price USD — native,149,199,Assumption,11
+pricePilot,Price USD — pilot,199,299,Assumption; separate service offer,12
+durationNative,Delivery months — native,1,2,Assumption,14
+durationPilot,Delivery months — pilot,1,2,Assumption; separate service offer,15
+refund,Expected refund fraction,0.08,0.08,Assumption; full variable cost retained for refunded buyers,16
+appleFee,Apple fee fraction,0.15,0.15,Conditional on approved Small Business enrollment. Source A.,17
+cardFee,US card fee fraction,0.029,0.029,Domestic online cards standard pricing. Source C.,18
+cardFixed,US card fixed fee USD,0.3,0.3,Original processing fees retained on refund. Sources C and E.,19
+railNative,Payment rail code — native,1,1,Assumption,21
+railPilot,Payment rail code — pilot,2,2,Assumption; separate service offer,22
+lagNative,Collection lag months — native,2,2,Assumption,24
+lagPilot,Collection lag months — pilot,0,0,Assumption; separate service offer,25
+front,Upfront variable fraction,0.5,0.5,Assumption; remaining half spread over service months,26
+expertMinNative,Expert minutes — native,30,45,Assumption,28
+expertMinPilot,Expert minutes — pilot,90,120,Assumption; separate service offer,29
+expertRate,Expert hourly USD,60,80,Assumption; qualified human review cost,30
+supportMinNative,Support minutes — native,15,30,Assumption,32
+supportMinPilot,Support minutes — pilot,30,30,Assumption; separate service offer,33
+supportRate,Support hourly USD,30,30,Assumption,34
+ai,AI budget per buyer USD,2,3,"Assumption, not a model/API benchmark",35
+infra,Infrastructure per buyer USD,1.5,2,Assumption,36
+license,Content license per buyer USD,5,8,Assumption,37
+cacNative,Acquisition per buyer USD — native,30,40,Assumption,39
+cacPilot,Acquisition per buyer USD — pilot,30,45,Assumption; separate service offer,40
+startup,Startup cash in October USD,8000,12000,Assumption; not a quote for fully outsourced native development,41
+fixed,Monthly fixed October–December USD,1000,1500,Excludes founder draw. January onward not specified.,42
+draw,Monthly founder draw October–December USD,3000,3000,Required compensation coverage shown separately from operating expense,43
+repeat,One additional purchase probability,0,0,Speculative; zero in Q4 cash; same CAC and variable cost per repeat,44
+unitsOctBase,Oct buyers — Base,0,0,Assumed test volume; not a demand forecast,46
+unitsOctEarly,Oct buyers — Early,40,40,Assumed test volume; not a demand forecast,47
+unitsOctZero,Oct buyers — Zero,0,0,Assumed test volume; not a demand forecast,48
+unitsOctPilot,Oct buyers — Pilot,10,10,Assumed test volume; not a demand forecast,49
+unitsNovBase,Nov buyers — Base,40,40,Assumed test volume; not a demand forecast,51
+unitsNovEarly,Nov buyers — Early,80,80,Assumed test volume; not a demand forecast,52
+unitsNovZero,Nov buyers — Zero,0,0,Assumed test volume; not a demand forecast,53
+unitsNovPilot,Nov buyers — Pilot,0,0,Assumed test volume; not a demand forecast,54
+unitsDecBase,Dec buyers — Base,80,80,Assumed test volume; not a demand forecast,56
+unitsDecEarly,Dec buyers — Early,120,120,Assumed test volume; not a demand forecast,57
+unitsDecZero,Dec buyers — Zero,0,0,Assumed test volume; not a demand forecast,58
+unitsDecPilot,Dec buyers — Pilot,0,0,Assumed test volume; not a demand forecast,59
+source_apple,Payment rail source,,,https://developer.apple.com/app-store/small-business-program/,
+source_payment,Payment rail source,,,https://developer.apple.com/help/app-store-connect/getting-paid/overview-of-receiving-payments/,
+source_stripe,Payment rail source,,,https://stripe.com/pricing,
+source_payout,Payment rail source,,,https://docs.stripe.com/payouts,
+source_refunds,Payment rail source,,,https://support.stripe.com/questions/understanding-fees-for-refunded-payments,

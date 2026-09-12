@@ -1,0 +1,100 @@
+{
+  "as_of": "2026-09-12",
+  "checks": [
+    {
+      "case": "Native base lag 2",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Native early lag 2",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Native early lag 1",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Native base lag 1",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Zero sales",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Founder draw zero",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Apple fee 30%",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Refund 15%",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "CAC plus USD20",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Human minutes plus 50%",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Price minus 25%",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Price plus 25%",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Pilot October ten, early payout",
+      "reconciliations": "passed"
+    },
+    {
+      "case": "Pilot Dec25 ten, Jan8 payout",
+      "reconciliations": "passed"
+    }
+  ],
+  "central": [
+    {
+      "case": "Native base lag 2",
+      "product": "Work return",
+      "unit_contribution": 40.518,
+      "december_operating_before_draw": 2241.4400000000005,
+      "december_after_founder_coverage": -758.5599999999995,
+      "cash_dec31": -29120,
+      "cash_after_delivery_reserve": -29120,
+      "receivable": 13982.16,
+      "delivery_reserve": 0,
+      "gross_buyers": 120,
+      "max_cac_deadline": -212.66666666666666
+    },
+    {
+      "case": "Native base lag 2",
+      "product": "Active trip",
+      "unit_contribution": 27.617999999999995,
+      "december_operating_before_draw": -1522.92,
+      "december_after_founder_coverage": -4522.92,
+      "cash_dec31": -39100,
+      "cash_after_delivery_reserve": -40860,
+      "receivable": 18674.159999999996,
+      "delivery_reserve": 1760,
+      "gross_buyers": 120,
+      "max_cac_deadline": -300.5
+    }
+  ],
+  "legacy": {
+    "residual": 47.942499999999995,
+    "buyers8000": 167,
+    "buyers28500": 595
+  },
+  "engine": "Artifact Tool recalculation; Microsoft Excel UI not tested",
+  "limitations": [
+    "Input validation supports duration 1–2 and calendar payout lag 0–2 only.",
+    "No outside-period fixed cost reserve; annual full fixed obligation unspecified.",
+    "Pilot same-month payout is an early-sale favorable approximation."
+  ]
+}

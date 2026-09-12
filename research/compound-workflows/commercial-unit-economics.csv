@@ -1,0 +1,24 @@
+metric,work_return,active_trip,basis
+Gross price,149,199,Active base assumptions; USD unless count or ratio
+Expected refunds,11.92,15.92,Active base assumptions; USD unless count or ratio
+Payment fees,20.562,27.462,Active base assumptions; USD unless count or ratio
+Net sales after refunds and fees,116.518,155.618,Active base assumptions; USD unless count or ratio
+Expert delivery cost,30,60,Active base assumptions; USD unless count or ratio
+Support delivery cost,7.5,15,Active base assumptions; USD unless count or ratio
+AI budget,2,3,Active base assumptions; USD unless count or ratio
+Infrastructure,1.5,2,Active base assumptions; USD unless count or ratio
+Content license,5,8,Active base assumptions; USD unless count or ratio
+Full variable delivery cost,46,88,Active base assumptions; USD unless count or ratio
+Contribution before acquisition,70.518,67.618,Active base assumptions; USD unless count or ratio
+Acquisition cost,30,40,Active base assumptions; USD unless count or ratio
+Contribution after acquisition,40.518,27.618,Active base assumptions; USD unless count or ratio
+Contribution / gross price,0.27193289,0.13878392,Active base assumptions; USD unless count or ratio
+Variable cost in sale month,46,66,Active base assumptions; USD unless count or ratio
+Remaining delivery cost after sale month,0,22,Active base assumptions; USD unless count or ratio
+Mature monthly buyers to cover fixed costs,25,55,Active base assumptions; USD unless count or ratio
+Mature monthly buyers incl founder draw,99,163,Active base assumptions; USD unless count or ratio
+Fully settled buyers to cover Q4/startup/draw,494,924,Active base assumptions; USD unless count or ratio
+Maximum CAC before fixed costs,70.518,67.618,Active base assumptions; USD unless count or ratio
+"Maximum CAC at Q4 volume, fully settled",-96.14866667,-144.882,Active base assumptions; USD unless count or ratio
+Expected contribution including one possible repeat,40.518,27.618,Active base assumptions; USD unless count or ratio
+Pilot contribution per buyer before fixed overhead,33.509,33.109,Separate one-time pilot offer; no native demand transfer

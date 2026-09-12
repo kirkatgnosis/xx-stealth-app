@@ -1,0 +1,201 @@
+product,month,metric,value,case,basis
+Work return,2026-10,Gross buyers,0,Native base lag 2,Assumed operations
+Work return,2026-10,Net sales booked after refunds and fees,0,Native base lag 2,Assumed operations
+Work return,2026-10,Net service revenue earned,0,Native base lag 2,Assumed operations
+Work return,2026-10,Cash collections,0,Native base lag 2,Assumed operations
+Work return,2026-10,Variable delivery cost paid / incurred,0,Native base lag 2,Assumed operations
+Work return,2026-10,Acquisition cost paid / expensed,0,Native base lag 2,Assumed operations
+Work return,2026-10,Fixed operating cost,1000,Native base lag 2,Assumed operations
+Work return,2026-10,Earned operating result before founder draw,-1000,Native base lag 2,Assumed operations
+Work return,2026-10,Founder draw,3000,Native base lag 2,Assumed operations
+Work return,2026-10,Earned operating result after founder coverage,-4000,Native base lag 2,Assumed operations
+Work return,2026-10,Startup cash,8000,Native base lag 2,Assumed operations
+Work return,2026-10,Net cash change this month,-12000,Native base lag 2,Assumed operations
+Work return,2026-10,Cumulative net cash since October,-12000,Native base lag 2,Assumed operations
+Work return,2026-10,Payment receivable at month end,0,Native base lag 2,Assumed operations
+Work return,2026-10,Unserved service value at net-sales basis,0,Native base lag 2,Assumed operations
+Work return,2026-10,Unpaid delivery cost reserve,0,Native base lag 2,Assumed operations
+Work return,2026-10,Cumulative cash less delivery reserve,-12000,Native base lag 2,Assumed operations
+Work return,2026-10,Check booked = collected + receivable,0,Native base lag 2,Assumed operations
+Work return,2026-10,Check booked = earned + unserved value,0,Native base lag 2,Assumed operations
+Work return,2026-10,Check variable booked = paid + reserve,0,Native base lag 2,Assumed operations
+Work return,2026-11,Gross buyers,40,Native base lag 2,Assumed operations
+Work return,2026-11,Net sales booked after refunds and fees,4660.72,Native base lag 2,Assumed operations
+Work return,2026-11,Net service revenue earned,4660.72,Native base lag 2,Assumed operations
+Work return,2026-11,Cash collections,0,Native base lag 2,Assumed operations
+Work return,2026-11,Variable delivery cost paid / incurred,1840,Native base lag 2,Assumed operations
+Work return,2026-11,Acquisition cost paid / expensed,1200,Native base lag 2,Assumed operations
+Work return,2026-11,Fixed operating cost,1000,Native base lag 2,Assumed operations
+Work return,2026-11,Earned operating result before founder draw,620.72,Native base lag 2,Assumed operations
+Work return,2026-11,Founder draw,3000,Native base lag 2,Assumed operations
+Work return,2026-11,Earned operating result after founder coverage,-2379.28,Native base lag 2,Assumed operations
+Work return,2026-11,Startup cash,0,Native base lag 2,Assumed operations
+Work return,2026-11,Net cash change this month,-7040,Native base lag 2,Assumed operations
+Work return,2026-11,Cumulative net cash since October,-19040,Native base lag 2,Assumed operations
+Work return,2026-11,Payment receivable at month end,4660.72,Native base lag 2,Assumed operations
+Work return,2026-11,Unserved service value at net-sales basis,0,Native base lag 2,Assumed operations
+Work return,2026-11,Unpaid delivery cost reserve,0,Native base lag 2,Assumed operations
+Work return,2026-11,Cumulative cash less delivery reserve,-19040,Native base lag 2,Assumed operations
+Work return,2026-11,Check booked = collected + receivable,0,Native base lag 2,Assumed operations
+Work return,2026-11,Check booked = earned + unserved value,0,Native base lag 2,Assumed operations
+Work return,2026-11,Check variable booked = paid + reserve,0,Native base lag 2,Assumed operations
+Work return,2026-12,Gross buyers,80,Native base lag 2,Assumed operations
+Work return,2026-12,Net sales booked after refunds and fees,9321.44,Native base lag 2,Assumed operations
+Work return,2026-12,Net service revenue earned,9321.44,Native base lag 2,Assumed operations
+Work return,2026-12,Cash collections,0,Native base lag 2,Assumed operations
+Work return,2026-12,Variable delivery cost paid / incurred,3680,Native base lag 2,Assumed operations
+Work return,2026-12,Acquisition cost paid / expensed,2400,Native base lag 2,Assumed operations
+Work return,2026-12,Fixed operating cost,1000,Native base lag 2,Assumed operations
+Work return,2026-12,Earned operating result before founder draw,2241.44,Native base lag 2,Assumed operations
+Work return,2026-12,Founder draw,3000,Native base lag 2,Assumed operations
+Work return,2026-12,Earned operating result after founder coverage,-758.56,Native base lag 2,Assumed operations
+Work return,2026-12,Startup cash,0,Native base lag 2,Assumed operations
+Work return,2026-12,Net cash change this month,-10080,Native base lag 2,Assumed operations
+Work return,2026-12,Cumulative net cash since October,-29120,Native base lag 2,Assumed operations
+Work return,2026-12,Payment receivable at month end,13982.16,Native base lag 2,Assumed operations
+Work return,2026-12,Unserved service value at net-sales basis,0,Native base lag 2,Assumed operations
+Work return,2026-12,Unpaid delivery cost reserve,0,Native base lag 2,Assumed operations
+Work return,2026-12,Cumulative cash less delivery reserve,-29120,Native base lag 2,Assumed operations
+Work return,2026-12,Check booked = collected + receivable,0,Native base lag 2,Assumed operations
+Work return,2026-12,Check booked = earned + unserved value,0,Native base lag 2,Assumed operations
+Work return,2026-12,Check variable booked = paid + reserve,0,Native base lag 2,Assumed operations
+Work return,2027-01,Gross buyers,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Net sales booked after refunds and fees,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Net service revenue earned,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Cash collections,4660.72,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Variable delivery cost paid / incurred,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Acquisition cost paid / expensed,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Fixed operating cost,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Earned operating result before founder draw,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Founder draw,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Earned operating result after founder coverage,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Startup cash,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Net cash change this month,4660.72,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Cumulative net cash since October,-24459.28,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Payment receivable at month end,9321.44,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Unserved service value at net-sales basis,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Unpaid delivery cost reserve,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Cumulative cash less delivery reserve,-24459.28,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Check booked = collected + receivable,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Check booked = earned + unserved value,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-01,Check variable booked = paid + reserve,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Gross buyers,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Net sales booked after refunds and fees,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Net service revenue earned,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Cash collections,9321.44,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Variable delivery cost paid / incurred,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Acquisition cost paid / expensed,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Fixed operating cost,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Earned operating result before founder draw,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Founder draw,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Earned operating result after founder coverage,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Startup cash,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Net cash change this month,9321.44,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Cumulative net cash since October,-15137.84,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Payment receivable at month end,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Unserved service value at net-sales basis,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Unpaid delivery cost reserve,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Cumulative cash less delivery reserve,-15137.84,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Check booked = collected + receivable,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Check booked = earned + unserved value,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Work return,2027-02,Check variable booked = paid + reserve,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2026-10,Gross buyers,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Net sales booked after refunds and fees,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Net service revenue earned,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Cash collections,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Variable delivery cost paid / incurred,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Acquisition cost paid / expensed,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Fixed operating cost,1500,Native base lag 2,Assumed operations
+Active trip,2026-10,Earned operating result before founder draw,-1500,Native base lag 2,Assumed operations
+Active trip,2026-10,Founder draw,3000,Native base lag 2,Assumed operations
+Active trip,2026-10,Earned operating result after founder coverage,-4500,Native base lag 2,Assumed operations
+Active trip,2026-10,Startup cash,12000,Native base lag 2,Assumed operations
+Active trip,2026-10,Net cash change this month,-16500,Native base lag 2,Assumed operations
+Active trip,2026-10,Cumulative net cash since October,-16500,Native base lag 2,Assumed operations
+Active trip,2026-10,Payment receivable at month end,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Unserved service value at net-sales basis,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Unpaid delivery cost reserve,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Cumulative cash less delivery reserve,-16500,Native base lag 2,Assumed operations
+Active trip,2026-10,Check booked = collected + receivable,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Check booked = earned + unserved value,0,Native base lag 2,Assumed operations
+Active trip,2026-10,Check variable booked = paid + reserve,0,Native base lag 2,Assumed operations
+Active trip,2026-11,Gross buyers,40,Native base lag 2,Assumed operations
+Active trip,2026-11,Net sales booked after refunds and fees,6224.72,Native base lag 2,Assumed operations
+Active trip,2026-11,Net service revenue earned,3112.36,Native base lag 2,Assumed operations
+Active trip,2026-11,Cash collections,0,Native base lag 2,Assumed operations
+Active trip,2026-11,Variable delivery cost paid / incurred,2640,Native base lag 2,Assumed operations
+Active trip,2026-11,Acquisition cost paid / expensed,1600,Native base lag 2,Assumed operations
+Active trip,2026-11,Fixed operating cost,1500,Native base lag 2,Assumed operations
+Active trip,2026-11,Earned operating result before founder draw,-2627.64,Native base lag 2,Assumed operations
+Active trip,2026-11,Founder draw,3000,Native base lag 2,Assumed operations
+Active trip,2026-11,Earned operating result after founder coverage,-5627.64,Native base lag 2,Assumed operations
+Active trip,2026-11,Startup cash,0,Native base lag 2,Assumed operations
+Active trip,2026-11,Net cash change this month,-8740,Native base lag 2,Assumed operations
+Active trip,2026-11,Cumulative net cash since October,-25240,Native base lag 2,Assumed operations
+Active trip,2026-11,Payment receivable at month end,6224.72,Native base lag 2,Assumed operations
+Active trip,2026-11,Unserved service value at net-sales basis,3112.36,Native base lag 2,Assumed operations
+Active trip,2026-11,Unpaid delivery cost reserve,880,Native base lag 2,Assumed operations
+Active trip,2026-11,Cumulative cash less delivery reserve,-26120,Native base lag 2,Assumed operations
+Active trip,2026-11,Check booked = collected + receivable,0,Native base lag 2,Assumed operations
+Active trip,2026-11,Check booked = earned + unserved value,0,Native base lag 2,Assumed operations
+Active trip,2026-11,Check variable booked = paid + reserve,0,Native base lag 2,Assumed operations
+Active trip,2026-12,Gross buyers,80,Native base lag 2,Assumed operations
+Active trip,2026-12,Net sales booked after refunds and fees,12449.44,Native base lag 2,Assumed operations
+Active trip,2026-12,Net service revenue earned,9337.08,Native base lag 2,Assumed operations
+Active trip,2026-12,Cash collections,0,Native base lag 2,Assumed operations
+Active trip,2026-12,Variable delivery cost paid / incurred,6160,Native base lag 2,Assumed operations
+Active trip,2026-12,Acquisition cost paid / expensed,3200,Native base lag 2,Assumed operations
+Active trip,2026-12,Fixed operating cost,1500,Native base lag 2,Assumed operations
+Active trip,2026-12,Earned operating result before founder draw,-1522.92,Native base lag 2,Assumed operations
+Active trip,2026-12,Founder draw,3000,Native base lag 2,Assumed operations
+Active trip,2026-12,Earned operating result after founder coverage,-4522.92,Native base lag 2,Assumed operations
+Active trip,2026-12,Startup cash,0,Native base lag 2,Assumed operations
+Active trip,2026-12,Net cash change this month,-13860,Native base lag 2,Assumed operations
+Active trip,2026-12,Cumulative net cash since October,-39100,Native base lag 2,Assumed operations
+Active trip,2026-12,Payment receivable at month end,18674.16,Native base lag 2,Assumed operations
+Active trip,2026-12,Unserved service value at net-sales basis,6224.72,Native base lag 2,Assumed operations
+Active trip,2026-12,Unpaid delivery cost reserve,1760,Native base lag 2,Assumed operations
+Active trip,2026-12,Cumulative cash less delivery reserve,-40860,Native base lag 2,Assumed operations
+Active trip,2026-12,Check booked = collected + receivable,0,Native base lag 2,Assumed operations
+Active trip,2026-12,Check booked = earned + unserved value,0,Native base lag 2,Assumed operations
+Active trip,2026-12,Check variable booked = paid + reserve,0,Native base lag 2,Assumed operations
+Active trip,2027-01,Gross buyers,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Net sales booked after refunds and fees,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Net service revenue earned,6224.72,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Cash collections,6224.72,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Variable delivery cost paid / incurred,1760,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Acquisition cost paid / expensed,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Fixed operating cost,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Earned operating result before founder draw,4464.72,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Founder draw,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Earned operating result after founder coverage,4464.72,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Startup cash,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Net cash change this month,4464.72,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Cumulative net cash since October,-34635.28,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Payment receivable at month end,12449.44,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Unserved service value at net-sales basis,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Unpaid delivery cost reserve,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Cumulative cash less delivery reserve,-34635.28,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Check booked = collected + receivable,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Check booked = earned + unserved value,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-01,Check variable booked = paid + reserve,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Gross buyers,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Net sales booked after refunds and fees,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Net service revenue earned,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Cash collections,12449.44,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Variable delivery cost paid / incurred,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Acquisition cost paid / expensed,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Fixed operating cost,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Earned operating result before founder draw,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Founder draw,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Earned operating result after founder coverage,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Startup cash,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Net cash change this month,12449.44,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Cumulative net cash since October,-22185.84,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Payment receivable at month end,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Unserved service value at net-sales basis,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Unpaid delivery cost reserve,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Cumulative cash less delivery reserve,-22185.84,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Check booked = collected + receivable,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Check booked = earned + unserved value,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified
+Active trip,2027-02,Check variable booked = paid + reserve,0,Native base lag 2,Runoff only; future fixed costs and draw unspecified

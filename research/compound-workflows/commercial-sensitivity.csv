@@ -1,0 +1,37 @@
+case,product,unit_contribution,december_operating_before_draw,december_after_founder_coverage,cash_dec31,cash_after_delivery_reserve,receivable,delivery_reserve,gross_buyers,max_cac_deadline,notes
+Native base lag 2,Work return,40.518,2241.44,-758.56,-29120,-29120,13982.16,0,120,-212.66666667,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Native base lag 2,Active trip,27.618,-1522.92,-4522.92,-39100,-40860,18674.16,1760,120,-300.5,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Native early lag 2,Work return,40.518,3862.16,862.16,-33579.28,-33579.28,23303.6,0,240,-109.91366667,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Native early lag 2,Active trip,27.618,-418.2,-3418.2,-47355.28,-49995.28,31123.6,2640,240,-168.31366667,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Native early lag 1,Work return,40.518,3862.16,862.16,-24257.84,-24257.84,13982.16,0,240,-71.07433333,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Native early lag 1,Active trip,27.618,-418.2,-3418.2,-34905.84,-37545.84,18674.16,2640,240,-116.441,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Native base lag 1,Work return,40.518,2241.44,-758.56,-24459.28,-24459.28,9321.44,0,120,-173.82733333,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Native base lag 1,Active trip,27.618,-1522.92,-4522.92,-32875.28,-34635.28,12449.44,1760,120,-248.62733333,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Zero sales,Work return,40.518,-1000,-4000,-20000,-20000,0,0,0,n.a.,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Zero sales,Active trip,27.618,-1500,-4500,-25500,-25500,0,0,0,n.a.,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Founder draw zero,Work return,40.518,2241.44,2241.44,-20120,-20120,13982.16,0,120,-137.66666667,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Founder draw zero,Active trip,27.618,-1522.92,-1522.92,-30100,-31860,18674.16,1760,120,-225.5,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Apple fee 30%,Work return,19.956,596.48,-2403.52,-29120,-29120,11514.72,0,120,-212.66666667,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Apple fee 30%,Active trip,0.156,-3170.64,-6170.64,-39100,-40860,15378.72,1760,120,-300.5,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Refund 15%,Work return,31.6525,1532.2,-1467.8,-29120,-29120,12918.3,0,120,-212.66666667,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Refund 15%,Active trip,15.7775,-2233.35,-5233.35,-39100,-40860,17253.3,1760,120,-300.5,Captured 2026-09-12; same build recalculated; not live until regenerated.
+CAC plus USD20,Work return,20.518,641.44,-2358.56,-31520,-31520,13982.16,0,120,-212.66666667,Captured 2026-09-12; same build recalculated; not live until regenerated.
+CAC plus USD20,Active trip,7.618,-3122.92,-6122.92,-41500,-43260,18674.16,1760,120,-300.5,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Human minutes plus 50%,Work return,21.768,741.44,-2258.56,-31370,-31370,13982.16,0,120,-231.41666667,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Human minutes plus 50%,Active trip,-9.882,-4147.92,-7147.92,-42850,-45360,18674.16,2510,120,-338,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Price minus 25%,Work return,11.3885,-88.92,-3088.92,-29120,-29120,10486.62,0,120,-212.66666667,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Price minus 25%,Active trip,-11.2865,-3857.19,-6857.19,-39100,-40860,14005.62,1760,120,-300.5,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Price plus 25%,Work return,69.6475,4571.8,1571.8,-29120,-29120,17477.7,0,120,-212.66666667,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Price plus 25%,Active trip,66.5225,811.35,-2188.65,-39100,-40860,23342.7,1760,120,-300.5,Captured 2026-09-12; same build recalculated; not live until regenerated.
+"Pilot October ten, early payout",Work return,33.509,-1000,-4000,-19664.91,-19664.91,0,0,10,-1936.491,Captured 2026-09-12; same build recalculated; not live until regenerated.
+"Pilot October ten, early payout",Active trip,33.109,-1500,-4500,-25168.91,-25168.91,0,0,10,-2471.891,Captured 2026-09-12; same build recalculated; not live until regenerated.
+"Pilot Dec25 ten, Jan8 payout",Work return,33.509,-664.91,-3664.91,-21435,-21435,1770.09,0,10,-2113.5,Captured 2026-09-12; same build recalculated; not live until regenerated.
+"Pilot Dec25 ten, Jan8 payout",Active trip,33.109,-2029.455,-5029.455,-27360,-27830,2661.09,470,10,-2738,Captured 2026-09-12; same build recalculated; not live until regenerated.
+Annual old USD99,Thought experiment,47.9425,,,,,,12,,,Not forecast. Future fixed obligations unspecified; reserve is full variable service.
+Annual revised USD249,Thought experiment,58.718,,,,,,96,,,Not forecast. Future fixed obligations unspecified; reserve is full variable service.
+One-repeat probability 0,Work return,40.518,,,,,,,,,"Speculative at most one additional purchase, same CAC, outside Q4; not LTV."
+One-repeat probability 0,Active trip,27.618,,,,,,,,,"Speculative at most one additional purchase, same CAC, outside Q4; not LTV."
+One-repeat probability 0.2,Work return,48.6216,,,,,,,,,"Speculative at most one additional purchase, same CAC, outside Q4; not LTV."
+One-repeat probability 0.2,Active trip,33.1416,,,,,,,,,"Speculative at most one additional purchase, same CAC, outside Q4; not LTV."
+One-repeat probability 0.4,Work return,56.7252,,,,,,,,,"Speculative at most one additional purchase, same CAC, outside Q4; not LTV."
+One-repeat probability 0.4,Active trip,38.6652,,,,,,,,,"Speculative at most one additional purchase, same CAC, outside Q4; not LTV."
